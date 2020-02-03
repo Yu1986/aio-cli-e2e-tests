@@ -9,6 +9,8 @@ WSK auth key and JWT auth config are needed for E2E test, please set them correc
 
 ## Run
 
+`change config file with correct wsk auth and JWT auth`
+`npm install`
 `npm run all`
 
 ## Tests
