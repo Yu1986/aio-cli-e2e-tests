@@ -18,10 +18,12 @@ WSK auth key and JWT auth config are needed for E2E test, please set them correc
 - [@adobe/aio-cli-plugin-auth](https://github.com/Yu1986/aio-cli-plugin-auth)
 - [@adobe/aio-cli-plugin-boilerplate](https://github.com/Yu1986/aio-cli-plugin-boilerplate)
 - [@adobe/aio-cli-plugin-pgb](https://github.com/Yu1986/aio-cli-plugin-pgb)
+- [@adobe/aio-cli-plugin-console](https://github.com/Yu1986/aio-cli-plugin-console)
 - [@adobe/aio-cli-plugin-jwt-auth](https://github.com/Yu1986/aio-cli-plugin-jwt-auth)
 - [@adobe/aio-cli-plugin-config](https://github.com/Yu1986/aio-cli-plugin-config)
 - [@adobe/aio-cli-plugin-cloudmanager](https://github.com/Yu1986/aio-cli-plugin-cloudmanager)
 - [@adobe/aio-cli-plugin-runtime](https://github.com/Yu1986/aio-cli-plugin-runtime)
+- [@adebe/aio-cli](https://github.com/Yu1986/aio-cli)
 
 ## Add a new e2e test
 
