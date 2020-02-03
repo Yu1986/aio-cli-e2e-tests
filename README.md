@@ -5,6 +5,7 @@ E2e tests for Adobe I/O CLI and plugins.
 ## Requirements
 
 Each tested repository has its own requirements, mostly environment variables to be set.
+WSK auth key and JWT auth config are needed for E2E test, please set them correctly under config
 
 ## Run
 
