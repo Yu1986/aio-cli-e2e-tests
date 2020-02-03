@@ -1,0 +1,56 @@
+{
+  "aio-cli-plugin-ims" : {
+    "repository": "https://github.com/Yu1986/aio-cli-plugin-ims",
+    "branch": "e2e"
+  },
+
+  "aio-cli-plugin-target": {
+    "repository": "https://github.com/Yu1986/aio-cli-plugin-target",
+    "branch": "e2e"
+  },
+
+  "aio-cli-plugin-auth" : {
+    "repository": "https://github.com/Yu1986/aio-cli-plugin-auth",
+    "branch": "e2e"
+  },
+
+  "aio-cli-plugin-boilerplate" : {
+    "repository": "https://github.com/Yu1986/aio-cli-plugin-boilerplate",
+    "branch": "e2e"
+  },
+
+  "aio-cli-plugin-pgb" : {
+    "repository": "https://github.com/Yu1986/aio-cli-plugin-pgb",
+    "branch": "e2e"
+  },
+
+  "aio-cli-plugin-console" : {
+    "repository": "https://github.com/Yu1986/aio-cli-plugin-console",
+    "branch": "e2e"
+  },
+
+  "aio-cli-plugin-jwt-auth" : {
+    "repository": "https://github.com/Yu1986/aio-cli-plugin-jwt-auth",
+    "branch": "e2e"
+  },
+
+  "aio-cli-plugin-config" : {
+    "repository": "https://github.com/Yu1986/aio-cli-plugin-config",
+    "branch": "e2e"
+  },
+
+  "aio-cli-plugin-cloudmanager" : {
+    "repository": "https://github.com/Yu1986/aio-cli-plugin-cloudmanager",
+    "branch": "e2e"
+  },
+
+  "aio-cli-plugin-runtime" : {
+    "repository": "https://github.com/Yu1986/aio-cli-plugin-runtime",
+    "branch": "e2e"
+  },
+
+  "aio-cli" : {
+    "repository": "https://github.com/Yu1986/aio-cli",
+    "branch": "e2e"
+  }
+}
